@@ -1,4 +1,4 @@
-# Modul 0.2a - Asas Komponen Dron
+# Modul 02a - Asas Komponen Dron
 
 Kat modul ni, explore drone guna game.
 
