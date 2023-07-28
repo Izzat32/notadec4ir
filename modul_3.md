@@ -1,6 +1,6 @@
 # Modul 3 - Prinsip penerbangan dron
 
-Terdapat 6parameter atau gerakan dron dalam udara yang disebut ebagai 6 degrees of freedom.
+Terdapat 6 parameter atau gerakan dron dalam udara yang disebut ebagai 6 degrees of freedom.
 
 6 Degrees Of Freedom (6DOF)
 * Paksi X (X axis)
