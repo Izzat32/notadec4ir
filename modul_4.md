@@ -3,7 +3,7 @@
 * Drone kena kurang dari 20kg. Kalau lebih, perlu kebenaran dari pihak berkuasa seperti CAAM (Civil Aviation AUthority Malaysia) dan JUPEM (Jabatan Ukur dan Pemetaan Malaysia)
 
 * No fly zone:
-  * Lapangan terbang 9.26km (klu x silap aq. dia pakai radius) 
+  * Lapangan terbang 9.26km (klu x silap aq, dia pakai radius) 
   * Markas tentera
   * Balai polis
   * Kawasan perumahan
