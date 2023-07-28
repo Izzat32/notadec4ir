@@ -1,1 +1,2 @@
-# bendadec4ir
+# note dec4ir aku
+thank me later
