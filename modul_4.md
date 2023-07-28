@@ -1,4 +1,4 @@
-# Modul 4 - Peraturan & Asas Pengendalian Dron di Malaysia.
+# Modul 4 - Peraturan & Asas Pengendalian Dron di Malaysia
 
 * Drone kena kurang dari 20kg. Kalau lebih, perlu kebenaran dari pihak berkuasa seperti CAAM (Civil Aviation AUthority Malaysia) dan JUPEM (Jabatan Ukur dan Pemetaan Malaysia)
 
