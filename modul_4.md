@@ -18,5 +18,5 @@
 
 * Berjarak 30 meter dari pengendali dron berlepas/mendarat
 
-* Visual Line OF Sight (VLOS)
+* Visual Line Of Sight (VLOS)
 	* Penerbangan dalam jarak penglihatan
