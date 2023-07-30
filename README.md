@@ -1,4 +1,4 @@
-# nota dec4ir
+# Nota dec4ir seseorang 
 
 [Modul 02a](https://github.com/Izzat32/notadec4ir/blob/main/modul_2.a.md)
 
@@ -8,4 +8,6 @@
 
 [Modul 04](https://github.com/Izzat32/notadec4ir/blob/main/modul_4.md)
 
-[Modul 05a]()
+[Modul 05a](https://github.com/Izzat32/notadec4ir/blob/main/modul_5a.md)
+
+thank me later 😉
