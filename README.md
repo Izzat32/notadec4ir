@@ -12,4 +12,6 @@
 
 [Modul 05a](https://github.com/Izzat32/notadec4ir/blob/main/modul_5a.md)
 
+[Modul 05](https://github.com/Izzat32/notadec4ir/blob/main/modul_5.md)
+
 thank me later 😉
