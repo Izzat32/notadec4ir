@@ -1,4 +1,4 @@
-# Nota dec4ir seseorang 
+# Nota dec4ir seseorang ✍
 
 [Modul 01](https://github.com/Izzat32/notadec4ir/blob/main/modul_1.md)
 
