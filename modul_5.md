@@ -62,7 +62,7 @@ Dulu VS Sekarang VS Masa depan:
     * E-Hailing
     * Lengan robot/robot arm
 * Masa depan:
-    * [[Teksi](https://en.wikipedia.org/wiki/Robotaxi)/[kereta](https://en.wikipedia.org/wiki/Robotaxi) tanpa pemandu
+    * [[Teksi](https://en.wikipedia.org/wiki/Robotaxi)/[kereta](https://en.m.wikipedia.org/wiki/Self-driving_car) tanpa pemandu
     * Lengan robot/robot arm dikendalikan secara wireless
 
 ## Rumusan
