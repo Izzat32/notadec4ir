@@ -64,16 +64,16 @@ Cons:
 ### Fixed wing hybrid (VTOL)
 
 Pros:
-● can take off and land vertically ✅
-● No need for a long runway as it can take off and land vertically
-● Can hover
-● Can carry heavier payloads
-● Stable
+* can take off and land vertically ✅
+* No need for a long runway as it can take off and land vertically
+* Able to hover
+* Can carry heavier payloads
+* Stable
 
 Cons:
-● Complex
-● More power needed (again, because of multiple rotors)
-● Shorter flight time constrained by batteries
+* More complex
+* More power needed (again, because of multiple rotors)
+* Shorter flight time constrained by batteries
 
 ### Fixed wing drones:
 
