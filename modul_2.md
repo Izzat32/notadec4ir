@@ -17,8 +17,8 @@ PENTING GILA TOPIK NI
 * TX (Ni aku tambah. Based on RX, korg bole amik sebagai Radio Transmitter la)
    * VTX (Video Transmitter. Bole bersumber dri camera. Tbh dlm pendapat aku, bole gak guna hantar benda lain mcm koordinat GPS, kelajuan, altitude dll. Dah nama pun TX)
       * Frequency VTX: 5 - 8 Ghz. Bergantung kepada drone, nak pakai frequency mna2 pun bole. Klu nak try transmit kat frequency TV analog tu pon bole tapi klu x silap bole kacau frequency 5G.
-       * Radio controller (Pengendali jarak jauh) Controller akan control drone guna frequency 2.4GHz, receive signal video VTX guna 5 - 8 GHz.
-        * Keep in mid benda radio ni perlukan kelulusan dari pihak berkuasa di negara masing-masing. Kat Malaysia, pihak berkuasa tu MCMC. Macam klu kau nk beli handphone dri negara lain.
+* Radio controller (Pengendali jarak jauh) Controller akan control drone guna frequency 2.4GHz, receive signal video VTX guna 5 - 8 GHz.
+* Keep in mid benda radio ni perlukan kelulusan dari pihak berkuasa di negara masing-masing. Kat Malaysia, pihak berkuasa tu MCMC. Macam klu kau nk beli handphone dri negara lain.
 
 ## Pergerakan (Movements)
 * Motor
@@ -29,8 +29,8 @@ PENTING GILA TOPIK NI
      * Electronic Speed Controller
       * Faktor pemilihan ESC:
           * Saiz motor
-           * Saiz propeller
-            * Kuasa bateri
+          * Saiz propeller
+          * Kuasa bateri
 
 ## Bateri
  Nampak cam dorg pilih Li-Po (Lithium Polymer) jadi aq akan letak point nya:
