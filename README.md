@@ -16,7 +16,7 @@
 
 [Modul 06 🚧](https://github.com/Izzat32/notadec4ir/blob/main/modul_6.md)
 
-[Forum perbincangan 🚧](https://github.com/notadec4ir/blob/main/forum_perbincangan.md)
+[Forum perbincangan 🚧](https://github.com/Izzat32/notadec4ir/blob/main/forum_perbincangan.md)
 
 thank me later 😉
 
