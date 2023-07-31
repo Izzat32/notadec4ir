@@ -14,6 +14,10 @@
 
 [Modul 05](https://github.com/Izzat32/notadec4ir/blob/main/modul_5.md)
 
+[Modul 06 🚧](https://github.com/Izzat32/notadec4ir/blob/main/modul_6.md)
+
+[Forum perbincangan 🚧](https://github.com/notadec4ir/blob/main/forum_perbincangan.md)
+
 thank me later 😉
 
 <img src="koala.jpg" alt="koala sleeping on eucalyptus tree">
