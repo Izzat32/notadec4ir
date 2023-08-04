@@ -70,7 +70,7 @@ Ada banyak. Malas nak masukan hahahaha
     * JUPEM menyelaras dan memproses:
         * BGSP
         * PDRM
-        *CGSO
+        * CGSO
     
 * MCMC
     * Malaysians Communications & Multimedia
